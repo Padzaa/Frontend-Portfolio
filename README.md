@@ -1,2 +1,0 @@
-# Frontend-Portfolio
-Frontend Goods
